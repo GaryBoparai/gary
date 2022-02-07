@@ -15,6 +15,7 @@ public class cardtrick extends card{
     public CardTrick(String playername, Value value, Suit suit) {
         super(value, suit);
         this.playername = playername;
+        
     }
 
     public String getPlayername() {

@@ -54,5 +54,10 @@ public class card {
     public void setSuit(Suit suit) {
         this.suit = suit;
     
+        public void printInfo(){
+            System.out.println("hi, I am Gurnoor singh boparai studying Computer systems"
+                    + "tehnician -software engineering at sheridan college");
+                    
+        }
 }
 }
